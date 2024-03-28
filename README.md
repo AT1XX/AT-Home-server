@@ -3,7 +3,7 @@
 Welcome to my home server setup! This guide will walk you through the steps of setting up a home server using Ubuntu and `etherwake`.
 
 ## Why??
-I have already setup Parsec to remotely access my PC but the problem is my PC need to turned on 24/7 inorder to access it. This is clearly not a viable option as electrcity doesn't come cheap. To solve this problem, I used my 20 years old laptop to act as a home server that i canm remote in and use Wake-ON-Lan og my PC to solve this.
+I have already setup Parsec to remotely access my PC but the problem is my PC need to turned on 24/7 inorder to access it. This is clearly not a viable option as electrcity doesn't come cheap. To solve this problem, I used my 20 years old laptop to act as a home server that i can remote in and use Wake-ON-Lan og my PC to solve this.
 
 ## Introduction
 
