@@ -44,7 +44,7 @@ Use the following command to wake up the device:
 
 This is all you need to WOL locally on same network. If you need to do it remotely then u need a VPN to your server. This was achieved using Wiregaurd. 
 
-## Usage
+## Other Usages
 Once your home server is set up and configured, you can use it for various purposes but here are some of my implementation: 
 
 - File storage and sharing using Samba.
